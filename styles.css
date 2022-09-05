@@ -1,0 +1,154 @@
+.fotoCV{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+
+    display: block;
+    margin: auto;
+}
+
+.bTeaching{
+    background-color: white;
+    border-color: red;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+.bSoftware{
+    background-color: white;
+    border-color: red;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+
+.bResearch{
+    background-color: white;
+    border-color: red;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+
+.form-group {
+    display: inline-block;
+    text-align: center; 
+}
+
+.page-header-image {
+    position: absolute;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+    z-index: -1; }
+
+
+
+.content-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 0 15px;
+    color: #FFFFFF;
+    width: 100%;
+    max-width: 880px; }
+
+h2, .yourName{
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.currentJobtTitle{
+    font-size: 1.5em;
+    color:darkred;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.about .content .p1 {
+    font-size: 35px;
+    margin-bottom: 20px;
+    text-align:center;
+}
+.about .content .p2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.section {
+    padding: 30px 0;
+    position: relative;
+    background: #FFFFFF; }
+
+.button-container {
+    text-align: center;
+    margin-top: 20px; }
+
+.btn {
+        width: 140px; }
+
+/* Profile Page Social button Style */
+.button-container .btn-default {
+    margin-right: 8px; }
+
+.btn-round {
+        border-width: 1px;
+        border-radius: 30px !important;
+        padding: 11px 23px; }
+
+.btn-lg {
+    font-size: 1em;
+    border-radius: 0.25rem;
+    padding: 15px 48px; }
+
+.btn.btn-icon {
+        height: 2.375rem;
+        min-width: 2.375rem;
+        width: 2.375rem;
+        padding: 0;
+        font-size: 0.9375rem;
+        overflow: hidden;
+        position: relative;
+        line-height: normal; }
+
+
+ .btn-twitter {
+            color: #55acee; }
+            .btn-twitter:hover, .btn-twitter:focus, .btn-twitter:active {
+              color: #3ea1ec; }
+          
+.btn-facebook {
+            color: #3b5998; }
+            .btn-facebook:hover, .btn-facebook:focus, .btn-facebook:active {
+              color: #344e86; }
+          
+.btn-google {
+            color: #dd4b39; }
+            .btn-google:hover, .btn-google:focus, .btn-google:active {
+              color: #d73925; }
+          
+.btn-linkedin {
+            color: #0077B5; }
+            .btn-linkedin:hover, .btn-linkedin:focus, .btn-linkedin:active {
+              color: #00669c; }
+
+/* Social button style */
+.cc-facebook:hover i {
+    color: #3b5998; }
+  
+.cc-twitter:hover i {
+    color: #1da1f2; }
+  
+.cc-google-plus:hover i {
+    color: #dd4b39; }
+  
+.cc-instagram:hover i {
+    color: #405de6; }
